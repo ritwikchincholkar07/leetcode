@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ritwikchincholkar07/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ritwikchincholkar07/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ritwikchincholkar07/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1929-concatenation-of-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ritwikchincholkar07/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ritwikchincholkar07/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
