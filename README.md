@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ritwikchincholkar07/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ritwikchincholkar07/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikchincholkar07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/ritwikchincholkar07/leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/ritwikchincholkar07/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ritwikchincholkar07/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ritwikchincholkar07/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ritwikchincholkar07/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ritwikchincholkar07/leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikchincholkar07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ritwikchincholkar07/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
