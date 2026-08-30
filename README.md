@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikchincholkar07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ritwikchincholkar07/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ritwikchincholkar07/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/ritwikchincholkar07/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ritwikchincholkar07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritwikchincholkar07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/ritwikchincholkar07/leetcode/tree/master/0704-binary-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/ritwikchincholkar07/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ritwikchincholkar07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritwikchincholkar07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
