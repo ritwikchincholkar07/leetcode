@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ritwikchincholkar07/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ritwikchincholkar07/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ritwikchincholkar07/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ritwikchincholkar07/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ritwikchincholkar07/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1929-concatenation-of-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/1929-concatenation-of-array) |
@@ -86,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ritwikchincholkar07/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ritwikchincholkar07/leetcode/tree/master/0066-plus-one) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ritwikchincholkar07/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
