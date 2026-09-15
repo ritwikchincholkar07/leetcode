@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ritwikchincholkar07/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ritwikchincholkar07/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ritwikchincholkar07/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikchincholkar07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ritwikchincholkar07/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ritwikchincholkar07/leetcode/tree/master/0217-contains-duplicate) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ritwikchincholkar07/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ritwikchincholkar07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritwikchincholkar07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ritwikchincholkar07/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ritwikchincholkar07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritwikchincholkar07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
