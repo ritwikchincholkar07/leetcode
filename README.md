@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ritwikchincholkar07/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ritwikchincholkar07/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ritwikchincholkar07/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0941-valid-mountain-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritwikchincholkar07/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritwikchincholkar07/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
