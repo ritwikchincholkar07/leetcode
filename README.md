@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ritwikchincholkar07/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ritwikchincholkar07/leetcode/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritwikchincholkar07/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/ritwikchincholkar07/leetcode/tree/master/2235-add-two-integers) |
 ## Counting Sort
 |  |
 | ------- |
