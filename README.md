@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ritwikchincholkar07/leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ritwikchincholkar07/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ritwikchincholkar07/leetcode/tree/master/0136-single-number) |
 ## Math
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ritwikchincholkar07/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ritwikchincholkar07/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ritwikchincholkar07/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ritwikchincholkar07/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ritwikchincholkar07/leetcode/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritwikchincholkar07/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/ritwikchincholkar07/leetcode/tree/master/2235-add-two-integers) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ritwikchincholkar07/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritwikchincholkar07/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ritwikchincholkar07/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ritwikchincholkar07/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ritwikchincholkar07/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ritwikchincholkar07/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ritwikchincholkar07/leetcode/tree/master/0344-reverse-string) |
